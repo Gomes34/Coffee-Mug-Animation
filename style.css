@@ -68,7 +68,7 @@ body {
 }
 .vapor3 {
     animation: vapor1 4s ease-out 1.5s infinite;
-    -webkit-animation: vapor1 4s ease-out 1s infinite;
+    -webkit-animation: vapor1 4s ease-out 1.5s infinite;
 }
 .vapor2 {
     animation: vapor2 4s ease-out 2s infinite;
